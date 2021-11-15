@@ -250,6 +250,7 @@ button, button:hover, button:focus, button:active {
       -ms-flex-pack: center;
           justify-content: center;
   font-weight: 700;
+  cursor: pointer;
 }
 
 @-webkit-keyframes shine {
